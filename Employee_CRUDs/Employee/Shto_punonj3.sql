@@ -1,0 +1,2 @@
+INSERT INTO employee
+VALUES('Jane Smith',10323,20,8500);

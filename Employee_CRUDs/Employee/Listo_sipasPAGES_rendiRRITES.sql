@@ -1,0 +1,4 @@
+SELECT SALARY as salaryPRIORITY,EMPLOYEE_ID
+FROM ordersdb.employee
+ORDER BY SALARY DESC
+;
